@@ -1,2 +1,2 @@
 # Preview-Classifier
-A simple code t classify between a Negative Review and a Positive Review
+A simple code to classify between a Negative Review and a Positive Review
